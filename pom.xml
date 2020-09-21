@@ -14,6 +14,21 @@
             <version>4.12</version>
             <scope>test</scope>
         </dependency>
+
+        <!--    直接输入dep+Tab键就可以快速创建依赖了    -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>5.2.7.RELEASE</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webmvc</artifactId>
+            <version>5.2.7.RELEASE</version>
+        </dependency>
+
+
     </dependencies>
 
 
